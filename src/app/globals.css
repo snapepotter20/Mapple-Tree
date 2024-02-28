@@ -18,6 +18,7 @@
 
 body {
   color: rgb(var(--foreground-rgb));
+  font: "SF Pro Display";
   background: linear-gradient(
       to bottom,
       transparent,
@@ -29,5 +30,8 @@ body {
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+  .text-color {
+    color: #909293;
   }
 }
