@@ -13,7 +13,7 @@ export const ContentList = [
   {
     id: 3,
     title: "Payment",
-    icon: "/Images/SideBar/wallet.svg",
+    icon: "/Images/SideBar/wallet-03.svg",
   },
   {
     id: 4,

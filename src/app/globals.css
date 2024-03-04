@@ -34,4 +34,7 @@ body {
   .text-color {
     color: #909293;
   }
+  .theme-color{
+    background-color:#00152C
+  }
 }
